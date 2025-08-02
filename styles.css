@@ -132,6 +132,19 @@ body {
     align-items: center;
 }
 
+.nav-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.nav-logo-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
 .nav-logo h2 {
     color: var(--text-primary);
     font-weight: 700;
@@ -415,6 +428,7 @@ body {
     height: 250px;
     object-fit: cover;
     transition: transform 0.3s ease;
+    opacity: 1 !important; /* Force visibility */
 }
 
 .product-card:hover .product-image {
