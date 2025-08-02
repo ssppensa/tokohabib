@@ -1,0 +1,34 @@
+GAMBAR YANG DIPERLUKAN UNTUK WEBSITE TOKO HABIB
+================================================
+
+Silakan tambahkan gambar-gambar berikut ke folder ini:
+
+1. toko-habib.jpg - Gambar utama toko (disarankan 800x600px)
+
+PRODUK BAJU:
+2. baju1.jpg - Baju Pria Casual
+3. baju2.jpg - Dress Wanita
+4. baju3.jpg - Kaos Anak
+5. baju4.jpg - Celana Jeans
+6. baju5.jpg - Kemeja Formal
+7. baju6.jpg - Hijab Modern
+
+PRODUK FROZEN FOOD:
+8. frozen1.jpg - Nugget Ayam
+9. frozen2.jpg - Sosis Premium
+10. frozen3.jpg - Dimsum Frozen
+11. frozen4.jpg - Kentang Goreng
+12. frozen5.jpg - Ikan Salmon
+13. frozen6.jpg - Udang Frozen
+
+CATATAN:
+- Semua gambar produk disarankan berukuran 400x300px
+- Format yang didukung: JPG, PNG, WebP
+- Pastikan gambar berkualitas baik dan sesuai dengan produk
+- Jika gambar tidak ada, website akan menampilkan broken image icon
+
+CARA MENAMBAHKAN GAMBAR:
+1. Siapkan gambar dengan nama yang sesuai
+2. Copy gambar ke folder images/
+3. Pastikan nama file persis sama dengan yang ada di HTML
+4. Refresh browser untuk melihat hasilnya 
